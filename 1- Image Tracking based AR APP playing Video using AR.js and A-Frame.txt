@@ -1,0 +1,37 @@
+
+Image Tracking based AR APP playing Video using AR.js and A-Frame :-
+
+
+
+To develop an Image Tracking based AR APP which plays a video on top of the tracked image, you can use AR.js and A-Frame.
+
+Reference Video:-
+
+https://youtu.be/pJdNqBbScO8
+
+Tutorial Video:-
+
+https://youtu.be/bs2oHg0J44Y
+
+
+AR.js Documentation for Image Tracking:-
+
+https://ar-js-org.github.io/AR.js-Docs/image-tracking/
+
+
+AR.js GitHub Repo:-  
+https://github.com/AR-js-org/AR.js
+
+
+A-frame Documentation:-  https://aframe.io/docs/1.2.0/introduction/
+
+
+Code for playing a video on top of tracked Image:-
+
+https://github.com/AR-js-org/AR.js/blob/master/aframe/examples/image-tracking/nft-video/index.html
+
+
+
+WebAR
+Image Tracking
+Augmented Reality 

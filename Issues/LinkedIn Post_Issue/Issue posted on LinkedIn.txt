@@ -1,0 +1,36 @@
+LinkedIn Post Link:-  
+
+https://www.linkedin.com/posts/g-bhanuteja-b7888a78_augmentedreality-webar-javascript-activity-6845179944604073984-qSbu
+
+
+Today I tried Image Tracking based WebAR using A-Frame and AR.js, I have followed the AR.js documentation as shown here:-
+https://lnkd.in/d-Y83CQi
+
+and the samples by AR.js on GitHub to create my project, but it's not working as expected. It just shows this Loading message ( Refer Image 1 below ) that is there in the body and in the background, it accesses the Camera of the device but it's not tracking the Image Descriptor. Why is it happening like that? I have tried the live(hosted) example by AR.js, in that also the same issue was there.
+
+You can refer to Image 2 for the index.html file of my project.
+
+My hosted project:-
+https://lnkd.in/dStSuyDe
+
+
+Image Target for the project:-
+https://lnkd.in/d6g2TWUp
+
+
+Whereas I had once again tried the Demo WebAR project that I had made using ARWT SDK made by TNTC using which WebAR projects can be developed using Unity itself, it's working perfectly ( It also uses A-Frame and AR.js internally but it's working, you can refer to Image 3 for reference. )
+
+If somebody knows why it's happening like that please tell me in the comments because I haven't found any issues in the index.html of my project.
+
+I also created an Issue in the issues section on AR.js GitHub org, if you want you can reply there also so that it can help me and others who are facing similar issues:-
+
+https://lnkd.in/dUcqsmnM
+
+
+Thanks
+
+#augmentedreality #webar #javascript #html5 #webdev
+#unity3d #arwt #arjs
+
+
+
